@@ -1,0 +1,35 @@
+.Conteneur{
+
+    display: flex;
+    margin-left: 15%;
+    margin-right: 15%;
+    
+}
+
+.description{
+
+    text-align: center;
+    align-items: center;
+}
+
+p.pres{
+                            
+    font-size: 1.3em;
+    line-height: 1.1;
+    color: #323232
+}
+
+#CR{
+
+    text-decoration: none;
+    color: #d3d3d3;
+}
+
+#CR:hover {
+    color: #ee7831;
+    text-decoration: none;
+    transition: all 0.25s ease 0s;
+    -moz-transition: all 0.25s ease 0s;
+    -webkit-transition: all 0.25s ease 0s;
+    -o-transition: all 0.25s ease 0s;
+}
